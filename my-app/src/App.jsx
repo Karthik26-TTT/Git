@@ -11,6 +11,8 @@ function App() {
     <>
       <section id="center">
         <div className="hero">
+          <h1>Hiiii</h1>
+          <h2>Hello</h2>
           <img src={heroImg} className="base" width="170" height="179" alt="" />
           <img src={reactLogo} className="framework" alt="React logo" />
           <img src={viteLogo} className="vite" alt="Vite logo" />
